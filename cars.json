@@ -1,0 +1,30 @@
+{
+  "checked": "November 2, 2026",
+  "note": "Dated Expedia offers for CHS \u2192 ROA, November 8 at 4pm to November 12 at 4pm, driver age 30. Thursday return time and driver age are provisional search inputs. Displayed totals include taxes, fees and drop charge, with unlimited mileage. Optional coverage and fuel are extra. The exact cancellation cutoff has not been checked. Links reopen the dated search, not a locked quote; availability and price may change. The compact is $91 more than the lowest listed SUV offer.",
+  "quotes": [
+    {
+      "provider": "Alamo",
+      "car": "Jeep Wrangler Unlimited or similar",
+      "total": "$772",
+      "status": "Dated Expedia offer",
+      "details": "November 8, 4pm \u2192 November 12, 4pm \u00b7 CHS \u2192 ROA. Taxes, fees and drop charge included; unlimited mileage. Optional coverage and fuel extra. Confirm cancellation terms before booking.",
+      "url": "https://www.expedia.com/carsearch?date1=2026-11-08&date2=2026-11-12&time1=1600&time2=1600&styp=1&locn=CHS&dtyp=1&loc2=ROA&age=30"
+    },
+    {
+      "provider": "Enterprise",
+      "car": "Jeep Wrangler Unlimited or similar",
+      "total": "$772",
+      "status": "Dated Expedia offer",
+      "details": "November 8, 4pm \u2192 November 12, 4pm \u00b7 CHS \u2192 ROA. Taxes, fees and drop charge included; unlimited mileage. Optional coverage and fuel extra. Confirm cancellation terms before booking.",
+      "url": "https://www.expedia.com/carsearch?date1=2026-11-08&date2=2026-11-12&time1=1600&time2=1600&styp=1&locn=CHS&dtyp=1&loc2=ROA&age=30"
+    },
+    {
+      "provider": "Alamo",
+      "car": "Nissan Versa compact or similar",
+      "total": "$863",
+      "status": "Dated Expedia offer",
+      "details": "November 8, 4pm \u2192 November 12, 4pm \u00b7 CHS \u2192 ROA. Taxes, fees and drop charge included; unlimited mileage. Optional coverage and fuel extra. Confirm cancellation terms before booking.",
+      "url": "https://www.expedia.com/carsearch?date1=2026-11-08&date2=2026-11-12&time1=1600&time2=1600&styp=1&locn=CHS&dtyp=1&loc2=ROA&age=30"
+    }
+  ]
+}
