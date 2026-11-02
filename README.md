@@ -1,4 +1,8 @@
-# Publish this guide on GitHub Pages
+# Blue Ridge road trip guide
+
+An autumn travel guide for November 8–12, 2026, from Charleston to Roanoke. The repository root contains the ready-to-publish static site. Rental prices are dated observations, lodging prices are estimates, and nothing is booked.
+
+## Publishing a copy
 
 This guide is a static site. No build step, API key, database, or ChatGPT account is required by the site itself.
 
@@ -15,4 +19,4 @@ For an existing repository, you may instead copy `dist` contents into `/docs` an
 
 Official instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
-No GitHub repository has been created or modified by this guide's preparation.
+For this repository, publish the existing `main` branch from `/(root)`. Edit the HTML, CSS, JavaScript and rental data directly; pushes to the publishing branch update GitHub Pages.
