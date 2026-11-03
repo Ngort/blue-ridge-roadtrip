@@ -208,5 +208,80 @@
         "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
       }
     ]
+  },
+  {
+    "slug": "blue-ridge",
+    "photos": [
+      {
+        "src": "assets/photos/br-linn-cove.jpg",
+        "alt": "The Linn Cove Viaduct curving around Grandfather Mountain through orange autumn trees",
+        "caption": "The Linn Cove Viaduct curving around Grandfather Mountain in autumn.",
+        "author": "Goins",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linn_Cove_Viaduct_in_the_Autumn.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      },
+      {
+        "src": "assets/photos/br-mabry-mill.jpg",
+        "alt": "Mabry Mill and its waterwheel reflected in the millpond under red autumn trees",
+        "caption": "Mabry Mill reflected in its pond, photographed November 3.",
+        "author": "ForestWander",
+        "license": "CC BY-SA 3.0 us",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/us/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn-reflection-mabry-mill_-_Virginia_-_ForestWander.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      },
+      {
+        "src": "assets/photos/br-looking-glass.jpg",
+        "alt": "Looking Glass Rock's bare granite dome above green forest under low clouds",
+        "caption": "Looking Glass Rock rising out of Pisgah National Forest.",
+        "author": "Thomson200",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Looking_Glass_Rock_Overlook,_October_2016.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      },
+      {
+        "src": "assets/photos/br-grandfather.jpg",
+        "alt": "Grandfather Mountain's rocky ridgeline lit orange at sunrise above autumn forest",
+        "caption": "Grandfather Mountain at sunrise in mid-October.",
+        "author": "Ken Thomas",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grandfather_Mountain-27527-1.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      },
+      {
+        "src": "assets/photos/br-graveyard-fields.jpg",
+        "alt": "Red and orange shrubs and trees covering the Graveyard Fields valley under a mountain ridge",
+        "caption": "Autumn color at the Graveyard Fields overlook, around 5,100 feet.",
+        "author": "bobistraveling",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Autumn_Colors_Overlook_View_Graveyard_Fields_Blue_Ridge_Pkwy_NC.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      },
+      {
+        "src": "assets/photos/br-linville-gorge.jpg",
+        "alt": "Forested walls of Linville Gorge with autumn color and distant ridges",
+        "caption": "Linville Gorge in late October.",
+        "author": "Ken Thomas",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linville_Gorge-27527-3.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      },
+      {
+        "src": "assets/photos/br-witch-hazel.jpg",
+        "alt": "Spidery yellow witch hazel flowers along a bare twig",
+        "caption": "American witch hazel, which flowers as the leaves fall.",
+        "author": "Katja Schulz from Washington, D. C., USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamamelis_virginiana_Flowers_-_Flickr_-_treegrow.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
   }
 ]

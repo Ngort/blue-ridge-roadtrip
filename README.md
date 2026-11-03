@@ -26,3 +26,7 @@ For this repository, publish the existing `main` branch from `/(root)`. Edit the
 Town photographs are credited below each image. Per-photo sources, licenses and modifications are recorded in `assets/photo-credits.json`; retain those credits and the applicable license when reusing images. Photos represent different seasons and are not live conditions.
 
 `discover.html` uses Leaflet, clustered place markers and OpenStreetMap tiles, with visible attribution. `discovery-points.json` records coordinate sources and approximate-address notes. Restaurant menus and public review/local-guide links appear on each town page.
+
+## The mountains chapter
+
+`index.html#mountains` covers the Blue Ridge, the 2026 foliage calendar for SC, NC and VA, the Blue Ridge Parkway and nature along the route. `mountains.js` holds its data. Foliage stages are planning estimates drawn from dated 2026 reports, and elevations and mileages are approximate. Its photos come from Wikimedia Commons and are credited in `assets/photo-credits.json` under `blue-ridge`.
