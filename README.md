@@ -20,3 +20,9 @@ For an existing repository, you may instead copy the site files into `/docs` and
 Official instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 For this repository, publish the existing `main` branch from `/(root)`. Edit the HTML, CSS, JavaScript and rental data directly; pushes to the publishing branch update GitHub Pages.
+
+## Photos and discovery map
+
+Town photographs are credited below each image. Per-photo sources, licenses and modifications are recorded in `assets/photo-credits.json`; retain those credits and the applicable license when reusing images. Photos represent different seasons and are not live conditions.
+
+`discover.html` uses Leaflet, clustered place markers and OpenStreetMap tiles, with visible attribution. `discovery-points.json` records coordinate sources and approximate-address notes. Restaurant menus and public review/local-guide links appear on each town page.

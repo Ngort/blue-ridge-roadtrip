@@ -1,6 +1,6 @@
 // Link destination mentions, including content replaced by itinerary/filter controls.
 (() => {
- const names=['Blowing Rock','Christiansburg','Charleston','Greenville','Brevard','Asheville','Linville','Boone','Floyd','Roanoke'];
+ const names=['Blowing Rock','Black Mountain','Banner Elk','Hendersonville','Galax','Christiansburg','Charleston','Greenville','Brevard','Asheville','Linville','Boone','Floyd','Roanoke'];
  const pattern=new RegExp('\\b('+names.join('|')+')\\b','gi');
  function connect(root){
   const walker=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode(node){

@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "charleston",
+    "photos": [
+      {
+        "src": "assets/photos/charleston.jpg",
+        "alt": "Homes on East Battery Street in Charleston, South Carolina",
+        "caption": "Homes on East Battery Street in Charleston, South Carolina",
+        "author": "Chris Pruitt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_Battery_Street_Charleston_Aug2010.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "greenville",
+    "photos": [
+      {
+        "src": "assets/photos/greenville.jpg",
+        "alt": "Falls Park Waterfall Greenville South Carolina by Yousef AbdulHusain",
+        "caption": "The Reedy River waterfalls in downtown Greenville.",
+        "author": "Yousef AbdulHusain (CantoV)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024-4-12-Falls_Park_Waterfall_Greenville_South_Carolina_by_Yousef_AbdulHusain.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "brevard",
+    "photos": [
+      {
+        "src": "assets/photos/brevard.jpg",
+        "alt": "Aerial of downtown Brevard, North Carolina, in Transylvania County",
+        "caption": "Aerial of downtown Brevard, North Carolina, in Transylvania County",
+        "author": "Harrison Keely",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_of_downtown_Brevard,_North_Carolina,_in_Transylvania_County_13.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "asheville",
+    "photos": [
+      {
+        "src": "assets/photos/asheville.jpg",
+        "alt": "Downtown Asheville, with the Blue Ridge Mountains beyond.",
+        "caption": "Downtown Asheville, with the Blue Ridge Mountains beyond.",
+        "author": "Quintin Soloviev",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Asheville,_North_Carolina.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "linville",
+    "photos": [
+      {
+        "src": "assets/photos/linville.jpg",
+        "alt": "The Linville River in Linville, North Carolina.",
+        "caption": "The Linville River in Linville, North Carolina.",
+        "author": "Porsche997SBS (talk)",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Stream_in_Linville.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stream_in_Linville.png",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "blowing-rock",
+    "photos": [
+      {
+        "src": "assets/photos/blowing-rock.jpg",
+        "alt": "This is the Blowing Rock Town Hall in Downtown Blowing Rock, North Carolina",
+        "caption": "Town Hall on Main Street in Blowing Rock.",
+        "author": "Leslie Anne Perry",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blowing_Rock_Town_Hall_2.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "boone",
+    "photos": [
+      {
+        "src": "assets/photos/boone.jpg",
+        "alt": "King Street in Boone, North Carolina, USA",
+        "caption": "King Street in Boone, North Carolina, USA",
+        "author": "Jeremy Mikkola from Boone, NC",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boone_NC_-_King_Street.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "floyd",
+    "photos": [
+      {
+        "src": "assets/photos/floyd.jpg",
+        "alt": "The Floyd Country Store in Floyd, Virginia.",
+        "caption": "The Floyd Country Store in Floyd, Virginia.",
+        "author": "Jarek Tuszyński (user:Jarekt)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Floyd,_Va_-_Country_Store.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "roanoke",
+    "photos": [
+      {
+        "src": "assets/photos/roanoke.jpg",
+        "alt": "Roanoke City as seen from Mill Mountain Star at dusk in Virginia, USA.",
+        "caption": "Roanoke City as seen from Mill Mountain Star at dusk in Virginia, USA.",
+        "author": "Joe Ravi",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roanoke_City_(Virginia)_from_Mill_Mountain_Star_at_Dusk.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "christiansburg",
+    "photos": [
+      {
+        "src": "assets/photos/christiansburg.jpg",
+        "alt": "Downtown Christiansburg",
+        "caption": "Downtown Christiansburg",
+        "author": "Cburgva",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Downtown_August_2016_.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "hendersonville",
+    "photos": [
+      {
+        "src": "assets/photos/hendersonville.jpg",
+        "alt": "Hendersonville, North Carolina, USA",
+        "caption": "Hendersonville, North Carolina, USA",
+        "author": "Quintin Soloviev",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hendersonville,_North_Carolina,_USA.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "black-mountain",
+    "photos": [
+      {
+        "src": "assets/photos/black-mountain.jpg",
+        "alt": "A view down State Street in Black Mountain, NC",
+        "caption": "A view down State Street in Black Mountain, NC",
+        "author": "Mojo Hand",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Mountain_NC_downtown.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "banner-elk",
+    "photos": [
+      {
+        "src": "assets/photos/banner-elk.jpg",
+        "alt": "Mill Pond, where Shawneehaw Creek and the Elk River join in Banner Elk.",
+        "caption": "Mill Pond, where Shawneehaw Creek and the Elk River join in Banner Elk. Photographed in winter.",
+        "author": "Mark Clifton",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shawneehaw_Creek_into_Mill_Pond.jpg",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  },
+  {
+    "slug": "galax",
+    "photos": [
+      {
+        "src": "assets/photos/galax.jpg",
+        "alt": "City of Galax, Virginia, Main Street.",
+        "caption": "City of Galax, Virginia, Main Street.",
+        "author": "Cyoung9",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Main_St_Galax_Va.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_St_Galax_Va.JPG",
+        "changes": "Resized and JPEG-compressed for this guide; no scene alterations."
+      }
+    ]
+  }
+]
