@@ -5,3 +5,6 @@
 /* Destination pages are reachable wherever a town appears in guide prose. */
 a.town-link{color:inherit;text-decoration:underline;text-decoration-color:var(--rust,#a54d2d);text-decoration-thickness:1px;text-underline-offset:3px}a.town-link:hover{color:var(--rust,#a54d2d)}a.town-link:focus-visible{outline:2px solid currentColor;outline-offset:3px}
 .map-view-links{display:flex;gap:22px;flex-wrap:wrap;font-size:.8rem;margin:14px 0 20px}.map-view-links span{border-bottom:2px solid #a44e30;padding-bottom:5px}.map-view-links a{color:#8c492b}
+
+/* Mobile: chapter tabs wrap onto several rows instead of scrolling sideways. */
+@media(max-width:720px){nav{flex-wrap:wrap;justify-content:center;gap:2px 16px;padding:8px 4%;overflow:visible}nav a{padding:5px 2px}nav a.active:after{bottom:0;height:2px}}

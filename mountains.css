@@ -1,5 +1,5 @@
 /* Chapter six · The mountains. Builds on styles.css tokens (forest, rust, cream, paper, line). */
-#mountains{--stage-0:#5f7f4f;--stage-1:#b4a647;--stage-2:#e0a03a;--stage-3:#c8502a;--stage-4:#8a5a3b;--stage-5:#a59b8c}
+
 .photo-band{display:grid;grid-template-columns:1.6fr 1fr;grid-template-rows:1fr 1fr;gap:14px;margin:0 0 40px}
 .photo-band figure{margin:0;position:relative;overflow:hidden;background:#e4ddcb}
 .photo-band figure:first-child{grid-row:span 2}
